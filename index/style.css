@@ -1,0 +1,81 @@
+header{
+
+    /*color:darkviolet;
+    color: rgb(31, 59, 92);*/
+    text-align: center;
+    font-size: 1em;
+    color: white;
+    padding: 10px 20px;
+    opacity: 0.7;
+    background: linear-gradient(#000046,#1cb5e0);
+}
+body{
+    background-color: #a9a9a9; /* Gris clair pour un fond doux */
+    font-family: Arial, sans-serif;
+    color: #333333;
+} 
+.banner {
+        text-align: center;  
+}
+    
+.banner img {
+        width: 30%;  
+        height: auto;  
+        display: inline-block;  
+}
+.p, .g, .f, .h, .k {
+    margin: 5px;
+    padding: 10px;
+    background-color: azure;
+}
+
+
+
+
+/* Styles du bouton */
+.btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.foot{
+
+    /*color:darkviolet;
+    color: rgb(31, 59, 92);*/
+    /*text-align: center;*/
+    font-size: 1em;
+    color: white;
+    padding: 10px;
+
+    padding: 10px 20px;
+    opacity: 0.7;
+    background: linear-gradient(#000046,#1cb5e0);
+}
+
+
+
+
+
+.logos-container {
+    text-align: center;  
+}
+
+.logo {
+    width: 50px;  
+    height: auto;  
+    display: block;  
+    margin: 20px;  
+}
+
+ .logo-link {
+    text-decoration: none;  
+    display: inline-block;  
+}
